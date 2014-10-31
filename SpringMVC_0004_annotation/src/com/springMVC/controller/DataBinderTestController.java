@@ -17,11 +17,7 @@ import com.springMVC.model.DataBinderTestModel;
 import com.springMVC.model.PhoneNumberModel;
 import com.springMVC.web.controller.support.editor.PhoneNumberEditor;
 
-/**
- * 
- * @author Administrator2014-10-31上午11:02:40
- *
- */
+
 @SuppressWarnings("deprecation")
 public class DataBinderTestController extends AbstractCommandController{
 
